@@ -1,0 +1,8 @@
+{
+  "name": "Cyber Sensei",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "18e93e1e"
+}
